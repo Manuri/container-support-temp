@@ -212,9 +212,9 @@
     </build>
 
     <scm>
-        <url>https://github.com/ballerinalang/container-support.git</url>
-        <developerConnection>scm:git:https://github.com/ballerinalang/container-support.git</developerConnection>
-        <connection>scm:git:https://github.com/ballerinalang/container-support.git</connection>
+        <url>https://github.com/manuri/container-support-temp.git</url>
+        <developerConnection>scm:git:https://github.com/manuri/container-support-temp.git</developerConnection>
+        <connection>scm:git:https://github.commanuri/container-support-temp.git</connection>
         <tag>HEAD</tag>
     </scm>
 
@@ -230,5 +230,7 @@
         <ballerina.launcher.version>0.8.1</ballerina.launcher.version>
         <jacoco.version>0.7.5.201505241946</jacoco.version>
         <surefireArgLine>-Dfile.encoding=UTF-8</surefireArgLine>
+
+        <project.scm.id>my-scm-server</project.scm.id>
     </properties>
 </project>

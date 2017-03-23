@@ -217,9 +217,9 @@
     </build>
 
     <scm>
-        <url>https://github.com/ballerinalang/container-support.git</url>
-        <developerConnection>scm:git:https://github.com/ballerinalang/container-support.git</developerConnection>
-        <connection>scm:git:https://github.com/ballerinalang/container-support.git</connection>
+        <url>https://github.com/manuri/container-support-temp.git</url>
+        <developerConnection>scm:git:https://github.com/manuri/container-support-temp.git</developerConnection>
+        <connection>scm:git:https://github.com/manuri/container-support-temp.git</connection>
         <tag>HEAD</tag>
     </scm>
 
